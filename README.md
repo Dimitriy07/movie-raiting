@@ -23,7 +23,7 @@ A React application for searching and rating movies using the IMDb API.
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/usePopcorn.git
+   git clone https://github.com/Dimitriy07/movie-raiting.git
    ```
 
 2. Navigate to the project directory:
